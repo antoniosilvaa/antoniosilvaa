@@ -15,7 +15,7 @@ Tenho experiência em **HTML, CSS, JavaScript, Java, PHP e MySQL**.
 
 ## 📫 Contato
 - Email: antoniogondim109@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/antonio-silva-3949a02a8/)
+- [LinkedIn](https://www.linkedin.com/in/antonio-silva-3949a02a8/)
 - [Portfólio](http://localhost/ProjetoPortifolioWeb/)
 
 ---
